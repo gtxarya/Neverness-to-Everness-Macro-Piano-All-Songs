@@ -23,3 +23,6 @@ A small Python script to play piano songs in Neverness to Everness using MIDI fi
 
 10. F5 = Play
     F6 = Stop
+
+# Tutorial
+ - [here](https://www.youtube.com/watch?v=5rxw_tW_fHs)
