@@ -17,10 +17,11 @@ A small Python script to play piano songs in Neverness to Everness using MIDI fi
 8. Open the game and go to the piano screen.
 
 9. Return to the Command/PowerShell window, enter the following command, and switch back to the game after pressing Enter:
-     ```bash
+
+   ```bash
    py music.py "PATH"
 
-10. F5 to Play & F6 to Stop
+11. F5 to Play & F6 to Stop
 
    ```bash
    py music.py "PATH"
