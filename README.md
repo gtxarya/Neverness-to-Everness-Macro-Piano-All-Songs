@@ -12,7 +12,7 @@ A small Python script to play piano songs in Neverness to Everness using MIDI fi
 
 6. Download the file that contains `music.py` and a MIDI music file that sounds good with the piano, then right-click on the downloaded MIDI file and select **Copy as path**.
 
-7. Open the extracted folder that contains `music.py`, then right-click in the empty space to open Command Prompt or Windows PowerShell in that folder.
+7. Open the folder that contains `music.py`, then right-click in the empty space to open Command Prompt or Windows PowerShell in that folder.
 
 8. Open the game and go to the piano screen.
 
