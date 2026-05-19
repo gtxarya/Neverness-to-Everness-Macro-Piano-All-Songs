@@ -21,7 +21,5 @@ A small Python script to play piano songs in Neverness to Everness using MIDI fi
    ```bash
    py music.py "PATH"
 
-11. F5 to Play & F6 to Stop
-
    ```bash
    py music.py "PATH"
